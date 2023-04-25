@@ -7,10 +7,6 @@ leading cause of death globally. With the increase in number of
 deaths among people due to heart diseases, it becomes an issue to
 be addressed.
 
-Our project was under the guidance of Dr. Pawan Kumar Tiwari and 
-Prof. Vineet Kansal. We built an online platform to predict the 
-risk of heart attack in a patient.
-
 This application takes age, BMI, Systolic BP, Diastolic BP, heart
 rate and blood glucose levels as input to give the risk in percentage
 associated with having a heart attack in a patient in 10 years time.
