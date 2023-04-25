@@ -1,5 +1,4 @@
 # Heart-Attack-Risk-Prediction-Using-ML
-# Heart Attack Risk Prediction Using ML 
 
 The fact that human life is dependent on the proper functioning
 of the heart is the driving force behind this research. The heart
