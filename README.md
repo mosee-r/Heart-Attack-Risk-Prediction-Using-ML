@@ -21,7 +21,7 @@ associated with having a heart attack in a patient in 10 years time.
 
 - Clone the project (or download the folder to your local)
     ```
-      git clone 
+      git clone https://github.com/mosee-r/Heart-Attack-Risk-Prediction-Using-ML.git
     ```
 
 - Go to project directory
